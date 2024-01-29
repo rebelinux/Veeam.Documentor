@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/rebelinux/Veeam.Documentor" alt="Veeam.Documentor"></a>
-            <img src='https://raw.githubusercontent.com/rebelinux/Veeam.Documentor/dev/icons/DMAD_Logo.png' width="8%" height="8%" /></a>
+            <img src='https://raw.githubusercontent.com/rebelinux/Veeam.Documentor/dev/icons/veeamdocumentor.png' width="8%" height="8%" /></a>
 </p>
 <p align="center">
     <a href="https://www.powershellgallery.com/packages/Veeam.Documentor/" alt="PowerShell Gallery Version">
